@@ -1,0 +1,25 @@
+1. Cấu trúc
+<div class="row">
+    <div class="col-4">
+
+    </div>
+    <div class="col-8">
+
+    </div>
+</div>
+
+1. Card
+<div class="card border-primary border-bottom border-3 border-0">
+    <div class="card-body">
+        <h5 class="card-title text-primary"></h5>
+        <p class="card-text"></p>
+        <hr>
+        <div class="d-flex align-items-center gap-2">
+            <a class="btn btn-inverse-primary"><i class="bx bx-star"></i>Button</a>
+            <a class="btn btn-primary"><i class="bx bx-microphone"></i>Button</a>
+        </div>
+    </div>
+</div>
+
+
+2. Form
